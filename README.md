@@ -3,3 +3,4 @@ SNAP used to be a bipartisan issue, but in the last 30 years things have changed
 Using benefits per person and the sitting U.S. presidents political party by year from 1969-2019, I explored the possibility that 
 one party has a higher spending limit on food than the other. Although my findings suggest that democrats tend to spend more money 
 on SNAP, not all of the factors are in place to give a definite answer. 
+Full Article: https://b-vanderburg27.medium.com/does-the-u-s-presidents-political-party-have-an-effect-on-snap-spending-565dd74b601b
